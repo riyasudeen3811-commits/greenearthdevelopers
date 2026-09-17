@@ -574,25 +574,25 @@ p:last-child {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 auto 1.75rem auto;
+  margin: 0 auto 2rem auto;
   animation: fadeInDown 0.8s ease-out forwards;
 }
 
 .hero-logo-img {
-  width: 190px;
-  height: 190px;
+  width: 290px;
+  height: 235px;
   object-fit: contain;
-  border-radius: 26px;
+  border-radius: 24px;
   background-color: #FFFFFF;
-  padding: 14px;
-  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45), 0 0 35px rgba(16, 185, 129, 0.4);
-  border: 3px solid #FFFFFF;
+  padding: 12px 18px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.5), 0 0 45px rgba(16, 185, 129, 0.45);
+  border: 4px solid #FFFFFF;
   transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease;
 }
 
 .hero-logo-img:hover {
-  transform: scale(1.06) rotate(1.5deg);
-  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.55), 0 0 45px rgba(16, 185, 129, 0.6);
+  transform: scale(1.05) rotate(1.5deg);
+  box-shadow: 0 30px 75px rgba(0, 0, 0, 0.6), 0 0 55px rgba(16, 185, 129, 0.65);
 }
 
 .hero .badge-pill {
@@ -1349,9 +1349,9 @@ textarea.form-control {
   }
 
   .hero-logo-img {
-    width: 140px;
-    height: 140px;
-    border-radius: 20px;
-    padding: 10px;
+    width: 210px;
+    height: 160px;
+    border-radius: 18px;
+    padding: 8px 12px;
   }
 }
