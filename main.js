@@ -1,5 +1,5 @@
 /* ==========================================================================
-   GREEN EARTH REALTY DEVELOPERS - MAIN JAVASCRIPT & ANIMATION ENGINE
+   GREEN EARTH DEVELOPERS - MAIN JAVASCRIPT & ANIMATION ENGINE
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
